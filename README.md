@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jjpimentaoliveira
-- 👀 I’m an iOS mobile developer who also has interest on Machine Learning and Deep Learning!
+- 👀 I’m an iOS mobile developer @WIT_Software!
 - 🫂 I’m looking to collaborate on iOS projects!
-- 📫 How to reach me: developer.pimenta@gmail.com
+- 📫 How to reach me: developer.pimenta@gmail.com || @jjoaopimenta
 
 <!---
 jjpimentaoliveira/jjpimentaoliveira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
